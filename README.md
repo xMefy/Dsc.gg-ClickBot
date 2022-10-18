@@ -12,4 +12,4 @@ pip install foobar
 
 ## 📈 Usage
 
-Double click on **main.py** or open a Command Prompt and type **python main.py**
+Double click on `main.py` or open a Command Prompt and type `python main.py`
