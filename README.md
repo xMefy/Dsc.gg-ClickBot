@@ -7,7 +7,7 @@ Want to own a popular Discord Server? Use my tool to get more clicks on Dsc.gg
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install request.
 
 ```bash
-pip install foobar
+pip install request
 ```
 
 ## 📈 Usage
