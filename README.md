@@ -1,4 +1,4 @@
-# 🤖 [DSC.gg](https://dsc.gg) Click Bot
+# 🤖 [DSC.gg Click Bot](https://dsc.gg)
 
 Want to own a popular Discord Server? Use my tool to get more clicks on Dsc.gg
 
